@@ -34,6 +34,7 @@ The primary objectives of this project are:
    * Map Visualizations: Providing geographical insights (potentially for future extension).
 
                                   Dashboard & Report
+<img width="620" alt="dashboard" src="https://github.com/user-attachments/assets/fc02ac46-2702-4545-8cef-a7366b6c7c68">
      
 * Combined all visualizations into an interactive Power BI dashboard.
 * Added filters (slicers) to allow users to interact with the data by date, city, or AQI bucket.
@@ -57,6 +58,8 @@ Several challenges were encountered during the project:
 * Data Visualization: Choosing the right type of visualizations to effectively communicate insights, as different pollutants behave differently over time.
 
                                 Final report
+  
+<img width="604" alt="Report" src="https://github.com/user-attachments/assets/d3ba7cc0-eb14-411a-8a6e-3ce36392d7e7">
   
 The final report for this project would include:
 * Executive Summary: A high-level overview of the project’s goals, methods, and outcomes.
