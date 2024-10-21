@@ -4,7 +4,7 @@ The goal of this project is to analyze and visualize air quality data for Indian
 The dataset used includes air quality parameters such as PM2.5, NO,NO2,NOx, CO, SO2, O3, and other volatile organic compounds (e.g., Benzene, Toluene,Xylene). Additionally, it provides the Air Quality Index (AQI) and corresponding air quality bucket classifications (e.g. good,Moderate, Poor,severe). Using this data, a dashboard is created to visualize trends, distributions, and comparisons over time.
 
 
-                              Objective
+                              Objectives
 The primary objectives of this project are:
 
 * Data Visualization:
